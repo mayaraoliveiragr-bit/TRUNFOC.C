@@ -1,2 +1,1 @@
-# TRUNFOC.C
-FACULDADE
+
